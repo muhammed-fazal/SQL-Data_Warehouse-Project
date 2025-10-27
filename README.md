@@ -55,7 +55,7 @@ Develop SQL-based analytics to deliver detailed insights into :
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-<p align="left"> <a href="https://github.com/muhammed-fazal" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/muhammed-fazal" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:fasalcheru@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="[https://x.com/MHD_Fazal_/" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/> </a> </p>
+<p align="left"> <a href="https://github.com/muhammed-fazal" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="http://www.linkedin.com/in/muhammed-fazal-" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:fasalcheru@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="[https://x.com/MHD_Fazal_/" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/> </a> </p>
 ## 🛡️License
 This project is licensed under the [MIT Licence](LICENSE). You are free to use, modify, and share this with proper attribution.
 
