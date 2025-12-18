@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on designing **business-ready Power BI dashboards** driven by **SQL-based exploratory data analysis (EDA)**.  
+This project focuses on designing **business-ready Power BI dashboards** .  
 The dashboards provide actionable insights into:
 
 - **Customer Behavior**
@@ -106,38 +106,6 @@ Track **sales performance over time** to identify trends, seasonality, and growt
 
 ---
 
-## 🔍 Analytical Approach
-
-1. **Data Exploration (EDA) using SQL**
-   - Date range exploration
-   - Key metrics identification
-   - Magnitude and distribution analysis
-   - Ranking analysis
-   - Change-over-time analysis
-
-2. **Metric Definition**
-   - Total Sales
-   - Total Orders
-   - Total Customers
-   - Average Selling Price
-   - Revenue by Product, Category, and Region
-
-3. **Visualization using Power BI**
-   - KPI cards
-   - Trend lines
-   - Bar and column charts
-   - Part-to-whole visuals
-   - Interactive filters and drill-downs
-
----
-
-## 🛠 Tools & Technologies
-
-- **SQL** – Data exploration and analytics  
-- **Power BI** – Dashboard design and visualization  
-- **DAX** – Measures and calculated metrics  
-
----
 
 ## 📈 Business Impact
 
@@ -148,21 +116,12 @@ Track **sales performance over time** to identify trends, seasonality, and growt
 
 ---
 
-## 🚀 Future Enhancements
-
-- Add profitability analysis (Revenue vs Cost)
-- Implement customer lifetime value (CLV)
-- Automate data refresh
-- Add predictive sales forecasting
-
----
 
 ## 📬 Author
 
 **Muhammed Fazal**  
-Data Analyst | SQL | Power BI | Python  
+ 
 📌 Passionate about transforming data into actionable insights
 
 ---
 
-⭐ If you find this project useful, feel free to star the repository!
