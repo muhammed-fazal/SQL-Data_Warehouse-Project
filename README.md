@@ -43,14 +43,29 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Documentation**: Provide clear documentation of the data model to support both business stackeholder and analytics teams.
 
 ---
-### BI: Analytics & Reporting (Data Analytics)
-#### Objective
-Develop SQL-based analytics to deliver detailed insights into :
+# Power BI Business Analytics Dashboard  
+
+This project focuses on designing **business-ready Power BI dashboards** .  
+The dashboards provide actionable insights into:
+
 - **Customer Behavior**
 - **Product Performance**
-- **Sales Trends**
-  These insights empower stackholders with key business metrics, enabling strategic decision-making.
+- **Sales Trends Over Time**
 
+The goal is to support **data-driven decision-making** by transforming raw transactional data into meaningful business insights.
+
+---
+
+## 🎯 Business Objective
+
+To develop interactive dashboards that enable stakeholders to:
+- Understand customer purchasing behavior
+- Evaluate product and category performance
+- Track sales growth, trends, and seasonality over time
+
+ These insights help improve **strategic planning, marketing effectiveness, and operational efficiency**.
+ 
+Follow This Link for More details:https://github.com/muhammed-fazal/SQL-Data_Warehouse-Project/tree/main/PowerBI%20Dashboard
 ---
 ## ☕ Stay Connected
 
