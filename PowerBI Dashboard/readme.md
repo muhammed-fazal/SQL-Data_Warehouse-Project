@@ -1,6 +1,9 @@
 # Power BI Business Analytics Dashboard  
 ### Customer Behavior | Product Performance | Sales Trends Over Time
+![ Data Architecture](https://github.com/muhammed-fazal/SQL-Data_Warehouse-Project/blob/main/PowerBI%20Dashboard/Customer%20Behavior%20Dashboard.png)
 
+
+![ Data Architecture](https://github.com/muhammed-fazal/SQL-Data_Warehouse-Project/blob/main/PowerBI%20Dashboard/Product%20Performance%20Dashboard.png)
 ## 📌 Project Overview
 
 This project focuses on designing **business-ready Power BI dashboards** .  
