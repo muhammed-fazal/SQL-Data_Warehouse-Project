@@ -56,6 +56,8 @@ The dashboards provide actionable insights into:
 
 
 ![ Data Architecture](https://github.com/muhammed-fazal/SQL-Data_Warehouse-Project/blob/main/PowerBI%20Dashboard/Product%20Performance%20Dashboard.png)
+
+![ Data Architecture](https://github.com/muhammed-fazal/SQL-Data_Warehouse-Project/blob/main/PowerBI%20Dashboard/Sales%20Trends%20Over%20Time%20Dashboard.png)
 The goal is to support **data-driven decision-making** by transforming raw transactional data into meaningful business insights.
 
 ---
