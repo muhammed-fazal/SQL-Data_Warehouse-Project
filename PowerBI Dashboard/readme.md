@@ -1,12 +1,9 @@
 # Power BI Business Analytics Dashboard  
 ### Customer Behavior | Product Performance | Sales Trends Over Time
-![ Data Architecture](https://github.com/muhammed-fazal/SQL-Data_Warehouse-Project/blob/main/PowerBI%20Dashboard/Customer%20Behavior%20Dashboard.png)
 
-
-![ Data Architecture](https://github.com/muhammed-fazal/SQL-Data_Warehouse-Project/blob/main/PowerBI%20Dashboard/Product%20Performance%20Dashboard.png)
 ## 📌 Project Overview
 
-This project focuses on designing **business-ready Power BI dashboards** .  
+This project focuses on designing **business-ready Power BI dashboards**.  
 The dashboards provide actionable insights into:
 
 - **Customer Behavior**
@@ -42,7 +39,7 @@ These insights help improve **strategic planning, marketing effectiveness, and o
 ---
 
 ## 1️⃣ Customer Behavior Dashboard
-
+![ Data Architecture](https://github.com/muhammed-fazal/SQL-Data_Warehouse-Project/blob/main/PowerBI%20Dashboard/Customer%20Behavior%20Dashboard.png)
 ### Business Goal
 Understand **who the customers are, how they behave, and how valuable they are** in order to improve retention, segmentation, and targeting strategies.
 
@@ -56,14 +53,18 @@ Understand **who the customers are, how they behave, and how valuable they are**
 - Track **new vs returning customers over time**
 - Filter and drill down by **date, country, and customer**
 
-### Key Business Questions Answered
-- Who are the most valuable customers?
-- Which customer segments generate the highest revenue?
-- Where should retention efforts be focused?
+### Key Business Questions This Dashboard Answered
+✅ Who are our customers?
+✅ Which countries & genders dominate revenue?
+✅ Who are our top customers?
+✅ Are customers coming back?
+✅ Are we gaining new customers over time?
+✅ Which age group is most valuable?
 
 ---
 
 ## 2️⃣ Product Performance Dashboard
+![ Data Architecture](https://github.com/muhammed-fazal/SQL-Data_Warehouse-Project/blob/main/PowerBI%20Dashboard/Product%20Performance%20Dashboard.png)
 
 ### Business Goal
 Evaluate product and category performance to optimize **pricing, promotions, and inventory management**.
@@ -80,14 +81,18 @@ Evaluate product and category performance to optimize **pricing, promotions, and
 - Drill down from **category → product → order details**
 
 ### Key Business Questions Answered
-- Which products drive the most revenue?
+- Which products drive revenue?
+- Which products underperform?
+- Best categories?
+- Regional performance?
+- Pricing issues?
 - Which products need improvement or discontinuation?
 - Which categories perform best across regions?
 
 ---
 
 ## 3️⃣ Sales Trends Over Time Dashboard
-
+![ Data Architecture](https://github.com/muhammed-fazal/SQL-Data_Warehouse-Project/blob/main/PowerBI%20Dashboard/Sales%20Trends%20Over%20Time%20Dashboard.png)
 ### Business Goal
 Track **sales performance over time** to identify trends, seasonality, and growth patterns.
 
